@@ -38,7 +38,7 @@ Diving deeper into database optimization and design principles.</p>
 
  
 <h3>
-- 📫 How to reach me :<a href="www.linkedin.com/asadullah-shahbaz-5192172b9" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" alt="asadullah-shahbaz" height="70" width="70" color="white"/></a>
+- 📫 How to reach me :<a href="https://linkedin.com/in/asadullah-shz" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" alt="asadullah-shahbaz" height="70" width="70" color="white"/></a>
 </h3>
 
 
@@ -51,6 +51,6 @@ Diving deeper into database optimization and design principles.</p>
 </p>
 
 ## 📫 Let's Connect! 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadullah-shz)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YourHandle)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YourHandle)  
