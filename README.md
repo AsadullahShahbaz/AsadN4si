@@ -18,7 +18,6 @@ src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f
 
 <h1>👨‍💻 About Me:</h1>
 <p><h4>Hi! I'm a Bachelor of Science in Computer Science (BSCS) student passionate about building innovative and user-friendly applications. I enjoy learning and working with various technologies to bring ideas to life. Here’s a bit about my technical expertise:</h4>
-
 <h3>🛠️ Skills</h3>
 Frontend Development:
 <h4>
@@ -39,7 +38,7 @@ Diving deeper into database optimization and design principles.</p>
 
  
 <h3>
-- 📫 How to reach me :<a href="https://linkedin.com/in/asadullah-shahbaz" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" alt="asadullah-shahbaz" height="70" width="70" color="white"/></a>
+- 📫 How to reach me :<a href="www.linkedin.com/in/asadullah-shahbaz-5192172b9" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" alt="asadullah-shahbaz" height="70" width="70" color="white"/></a>
 </h3>
 
 
