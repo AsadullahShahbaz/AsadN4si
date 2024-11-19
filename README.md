@@ -38,7 +38,7 @@ Diving deeper into database optimization and design principles.</p>
 
  
 <h3>
-- 📫 How to reach me :<a href="www.linkedin.com/in/asadullah-shahbaz-5192172b9" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" alt="asadullah-shahbaz" height="70" width="70" color="white"/></a>
+- 📫 How to reach me :<a href="www.linkedin.com/asadullah-shahbaz-5192172b9" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" alt="asadullah-shahbaz" height="70" width="70" color="white"/></a>
 </h3>
 
 
