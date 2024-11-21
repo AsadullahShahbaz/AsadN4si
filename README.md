@@ -1,10 +1,15 @@
+
 <h1 align="center"><img 
 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="logo"</h1>
   <br>
+  <h1 align="center"><img 
+src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="logo"</h1>
   
 <h1 align="center">Hi 👋, My Name is Asadullah Shahbaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadullahshahbaz&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahshahbaz" /> </p>
 
 
@@ -18,6 +23,7 @@ src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3
 
 
 <h1>👨‍💻 About Me:</h1>
+
 <p><h4>Hi! I'm a Bachelor of Science in Computer Science (BSCS) student passionate about building innovative and user-friendly applications. I enjoy learning and working with various technologies to bring ideas to life. Here’s a bit about my technical expertise:</h4>
 <h3>🛠️ Skills</h3>
 Frontend Development:
@@ -33,6 +39,7 @@ C++
 <h4>
   SQL and database design
 </h4>
+
 <h1>🌱 What I'm Currently Working On</h1>
 Sharpening my skills in web development and exploring modern JavaScript frameworks.
 Diving deeper into database optimization and design principles.</p>
