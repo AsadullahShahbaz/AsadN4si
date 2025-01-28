@@ -1,6 +1,6 @@
 
 <h1 align="center"><img 
-src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="logo"</h1>
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR2enl0YTVzOGJnejY4MHFrZzhjdzNkZ3VzNWVkNGxuYW00dWM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="logo"width="55%"</h1>
   <br>
   <h1 align="center"><img 
 src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="logo"</h1>
@@ -13,7 +13,7 @@ src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadullahshahbaz&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahshahbaz" /> </p>
 
 
-<p align="center"><a href="https://git.io/streak-stats" ><img src="https://streak-stats.demolab.com?user=AsadullahShahbaz&theme=dark" alt="GitHub Streak" /></a></p>
+
 
 
 <p align="center">
